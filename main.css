@@ -83,7 +83,7 @@
 .phase-abilities {
     display: grid;
     grid-template-columns: 1fr 1fr;
-    grid-template-rows: repeat(auto-fit, minmax(75px, 1fr));
+    grid-template-rows: repeat(auto-fit);
     grid-auto-flow: row;
     padding: 5px;
     grid-area: abilities;
