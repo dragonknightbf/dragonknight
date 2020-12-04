@@ -69,10 +69,6 @@ navigation a:hover {
     text-align: left;
 }
 
-.dropdown-content a:hover {
-    background-color: lightgrey;
-}
-
 .dropdown:hover {
     text-decoration: underline;
 }
