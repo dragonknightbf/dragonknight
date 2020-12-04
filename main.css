@@ -8,7 +8,7 @@ body {
     text-align: center;
 }
 
-#boss-list {
+.boss-list {
     margin-top: 25px;
     display: flex;
     flex-direction: column;
@@ -17,7 +17,7 @@ body {
     list-style-type: none;
 }
 
-#boss-list > li {
+.boss-list > li {
     font-size: 20px;
     padding-bottom: 10px;
 }
