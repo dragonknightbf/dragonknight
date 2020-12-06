@@ -177,9 +177,10 @@ navigation a:hover {
 }
 
 .heroic-only::after {
-    color: red;
+    color: darkred;
     font-size: 16px;
-    content: " - Heroic Only"
+    content: " - Heroic Only";
+    font-weight: bold;
 }
 
 .flex-center {
