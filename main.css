@@ -168,6 +168,7 @@ navigation a:hover {
 
 .phase-abilities h6 {
     font-size: 24px;
+    font-weight: bold;
 }
 
 .phase-abilities a {
@@ -189,6 +190,11 @@ navigation a:hover {
 
 .tank {
     background-color: cornflowerblue;
+}
+
+.tank h6 {
+    /* font-weight: bold; */
+    /* color: cornflowerblue; */
 }
 
 .heal {
