@@ -214,3 +214,25 @@ navigation a:hover {
     font-size: 48px;
     font-weight: bold;
 }
+
+.bg-deathknight { background-color: #C41F3B; }
+.bg-demonhunter { background-color: #A330C9; }
+.bg-druid { background-color: #FF7D0A; }
+.bg-hunter { background-color: #ABD473; }
+.bg-mage { background-color: #69CCF0; }
+.bg-monk { background-color: #00FF96; }
+.bg-paladin { background-color: #F58CBA; }
+.bg-priest { background-color: #FFFFFF; }
+.bg-rogue { background-color: #FFF569; }
+.bg-shaman { background-color: #0070DE; }
+.bg-warlock { background-color: #9482C9; }
+.bg-warrior { background-color: #C79C6E; }
+
+.bg-lfg { background-color: #FEC1C0; }
+.bg-system { background-color: #FFFF00; }
+.bg-guild { background-color: #3CE13F; }
+.bg-officer { background-color: #40BC40; }
+.bg-party { background-color: #AAABFE; }
+.bg-leader { background-color: #77C8FF; }
+.bg-spells { background-color: #67BCFF; }
+.bg-quest { background-color: #CC9933; }
